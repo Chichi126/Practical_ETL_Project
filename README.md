@@ -1,4 +1,4 @@
-# simple_etl_demo
+# Practical_ETL_Project
 
 ### ETL Project: Transforming Raw Data into Strategic Insights 
 
